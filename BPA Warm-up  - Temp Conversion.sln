@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPA Warm-up  - Temp Conversion", "BPA Warm-up  - Temp Conversion\BPA Warm-up  - Temp Conversion.csproj", "{A3EA2A40-8332-479E-83E0-8F76BC569884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3EA2A40-8332-479E-83E0-8F76BC569884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EA2A40-8332-479E-83E0-8F76BC569884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EA2A40-8332-479E-83E0-8F76BC569884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EA2A40-8332-479E-83E0-8F76BC569884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD0A596-8DD9-489B-9EC3-A98652F3F76B}
+	EndGlobalSection
+EndGlobal
